@@ -1,0 +1,11 @@
+paramiko: Paramiko (SSH2 protocol for python)
+paramiko:
+paramiko: paramiko is a module for python 2.2 (or higher) that implements
+paramiko: the SSH2 protocol for secure (encrypted and authenticated)
+paramiko: connections to remote machines.  Unlike SSL (aka TLS), SSH2
+paramiko: protocol does not require heirarchical certificates signed by a
+paramiko: powerful central authority.
+paramiko: paramiko is written entirely in python (no C or platform-dependent
+paramiko: code) and is released under the GNU LGPL (lesser GPL).
+paramiko:
+paramiko: Packaged by Georgi D. Sotirov <gdsotirov@dir.bg>
