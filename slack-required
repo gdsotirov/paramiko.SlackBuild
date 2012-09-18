@@ -1,2 +1,2 @@
-pycrypto >= 2.3
+pycrypto >= 2.1
 python >= 2.2
