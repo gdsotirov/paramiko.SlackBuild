@@ -19,15 +19,15 @@
 #
 # Visit SlackPack at http://sotirov-bg.net/slackpack/
 #
-# $Id: paramiko.SlackBuild,v 1.8 2016/07/16 11:33:25 gsotirov Exp $
+# $Id: paramiko.SlackBuild,v 1.9 2016/10/22 08:15:52 gsotirov Exp $
 #
 
 . ../../slack-package.conf
 
 NAME=paramiko
-VERSION=1.17.1
+VERSION=2.0.2
+ARCH=${ARCH:-i586}
 BUILD=${BUILD:-1}
-ARCH=${ARCH:-i486}
 
 TMP=${TMP:-/tmp}
 CWD=${CWD:-`pwd`}
