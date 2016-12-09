@@ -1,3 +1,4 @@
-pycrypto >= 2.6
+cryptography >= 1.6
+pyasn1 >= 0.1.9
 python >= 2.7
 python-ecdsa >= 0.13
