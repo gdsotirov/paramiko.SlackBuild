@@ -1,4 +1,7 @@
+cffi >= 1.9.1
 cryptography >= 1.6
+idna >= 2.1
+ipaddress >= 1.0.17
 pyasn1 >= 0.1.9
 python >= 2.7
 python-ecdsa >= 0.13
